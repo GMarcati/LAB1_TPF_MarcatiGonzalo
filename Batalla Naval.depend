@@ -1,0 +1,18 @@
+# depslib dependency file v1.0
+1542343612 source:f:\gonzalo marcati\documents\utn\lab_i\lab1_tpf_marcatigonzalo\lab1_tpf_marcatigonzalo\main.cpp
+	<iostream>
+	<cstdlib>
+	"CSYSTEM/csystem.h"
+	"juego.h"
+	<cstring>
+
+1399506914 f:\gonzalo marcati\documents\utn\lab_i\lab1_tpf_marcatigonzalo\lab1_tpf_marcatigonzalo\csystem\csystem.h
+	<iostream>
+	<cstdlib>
+	<cstdio>
+	<ctime>
+	<windows.h>
+	<unistd.h>
+
+1629683537 f:\gonzalo marcati\documents\utn\lab_i\lab1_tpf_marcatigonzalo\lab1_tpf_marcatigonzalo\juego.h
+
